@@ -4,7 +4,7 @@ import numpy as np
 plt.figure(figsize=(5, 2))
 plt.subplots_adjust(left=0.13, bottom=0.25, right=0.8, top=0.9, wspace=0.4, hspace=0.6)
 
-y_ticks = [-2, 0, 2, 4, 6,8, 10, 12]
+y_ticks = [-2, 0, 2, 4, 6, 8, 10, 12]
 x_ticks = [1, 2, 4, 8, 16]
 plot_data_x = [1, 2, 4, 8, 16]
 plot_data_y = [
