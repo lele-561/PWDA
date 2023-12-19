@@ -123,7 +123,7 @@ alphas = [0.1, 0.2, 0.3, 0.4, 0.5]  # 修改率
 
 ### RoBERTa & XLNet
 
-由于算力问题，RoBERTa和XLNet模型实验均在Goggle Colab上进行，将`experiment/XLNet/XLNet_2.ipynb`和`experiment/RoBERTa/RoBERTa_6.ipynb`
+由于算力问题，RoBERTa和XLNet模型实验均在Google Colab上进行，将`experiment/XLNet/XLNet_2.ipynb`和`experiment/RoBERTa/RoBERTa_6.ipynb`
 两个文件直接上传至Colab，修改数据集等参数，直接运行即可执行实验
 
 ## Structure
